@@ -1,5 +1,5 @@
 ### Changelog 0.1
-- Discontiuned | Check out Solar Softworks new project! [Zerion Serverside](https://zerionwtf.vercel.app/)
+- Discontiuned | Check out Solar Softworks new project! [Zerion Serverside](https://zerion.wtf/)
 
 
 ### Changelog 0.0
